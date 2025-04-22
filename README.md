@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ashish Kumar
 
 🎯 **Aspiring Backend Developer** passionate about turning ideas into scalable applications.  
-💻 Skilled in **Java**, **Spring Boot**, **Python**, **SQL**, **DSA**, and **C**.  
+💻 Skilled in **Java**, **Spring Boot**, **SQL**, **DSA**, and **C**, **Python**.  
 🧠 Continuously improving my coding skills and problem-solving abilities.  
 📚 Currently diving deep into **Data Structures & Algorithms**.
 
@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 - 💻 Languages: `Java`, `SQL`, `C`, `Python`
 - 🌐 Backend: `Spring Boot`, `JSP`, `Hibernate`
-- 🛢️ Database: `MySQL`
+- 🛢️ Database: `Oracle SQL`, `MySQL`
 - 📁 Version Control: `Git & GitHub`
 - ⚙️ Tools: `Eclipse`, `VS Code`, `Postman`, `Turbo C++`, `CodeBlocks`
 
