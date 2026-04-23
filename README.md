@@ -16,7 +16,7 @@ I have worked on **Oracle FLEXCUBE core banking systems**, handling real-time tr
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Java, SQL
+* **Languages:** Java, SQL, C
 * **Backend:** Spring Boot, JPA/Hibernate, REST APIs
 * **Database:** MySQL, Oracle SQL
 * **Tools:** Git, Postman, IntelliJ IDEA
