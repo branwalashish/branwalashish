@@ -18,7 +18,7 @@
 
 ### 🚀 Projects
 
-- [🎓 Student Management System](#) – *Code coming soon...*   
+- [🎓 Student Management System](#) – (https://github.com/branwalashish/student-management-system) 
   A full-stack CRUD web application using Spring Boot, JSP, and MySQL.
 
 - 👨‍💼 [**Employee Management System**](https://github.com/branwalashish/EmployeeManagementSystem)  
