@@ -1,52 +1,78 @@
-### Hi there 👋 I'm Ashish Kumar
+### Hi 👋 I'm Ashish Kumar
 
-🎯 **Backend Developer** passionate about turning ideas into scalable applications.  
-💻 Skilled in **Java**, **Spring Boot**, **SQL**, **DSA**, and **C**, **Python**.  
-🧠 Continuously improving my coding skills and problem-solving abilities.  
-📚 Currently diving deep into **Data Structures & Algorithms**.
+Backend-focused developer with hands-on experience in building scalable applications using **Java, Spring Boot, and SQL**.
+I have worked on **Oracle FLEXCUBE core banking systems**, handling real-time transaction flows, debugging production issues, and optimizing SQL queries.
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 Languages: `Java`, `SQL`, `C`, `Python`
-- 🌐 Backend: `Spring Boot`, `JSP`, `Hibernate`
-- 🛢️ Database: `Oracle SQL`, `MySQL`, `MongoDB`
-- 📁 Version Control: `Git & GitHub`
-- ⚙️ Tools: `Eclipse`, `VS Code`, `Postman`, `Turbo C++`, `CodeBlocks`
+## 🚀 About Me
+
+* 💻 Strong in **Java, Spring Boot, SQL, and backend development**
+* 🏦 Experience working with **core banking systems (Oracle FLEXCUBE)**
+* ⚡ Focused on **clean architecture, performance, and maintainability**
+* 🔍 Interested in solving real-world backend and data problems
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-- [🎓 Student Management System](#) – (https://github.com/branwalashish/student-management-system) 
-  A full-stack CRUD web application using Spring Boot, JSP, and MySQL.
-
-- 👨‍💼 [**Employee Management System**](https://github.com/branwalashish/EmployeeManagementSystem)  
-  A full-stack CRUD web application using Spring Boot, JSP, and MySQL.
-
-- 📚 [**DSA Practice**](https://github.com/branwalashish/DSA)  
-  My learning journey of solving Data Structures and Algorithms problems in Java.
-
-- 🔄 [**PDF to DOCX Converter**](https://github.com/branwalashish/Project/tree/main/pdf-to-docx-converter)  
-  A Java + Python desktop app to convert PDF files into editable Word documents.
----
-
-### 📺 Latest YouTube Videos
-Subscribe to my channel: [@DataStructureAndAshish](https://www.youtube.com/@DataStructureAndAshish)
-
-- 🔹 [Custom ArrayList Implementation](https://www.youtube.com/watch?v=4HQ7ND6LDA8)
-- 🔹 [Custom LinkedList Implementation](https://www.youtube.com/watch?v=eAlkQoH9Qjk)
-- 🔹 [PDF to Docx Converter](https://www.youtube.com/watch?v=PODizrPOCXk)    
+* **Languages:** Java, SQL
+* **Backend:** Spring Boot, JPA/Hibernate, REST APIs
+* **Database:** MySQL, Oracle SQL
+* **Tools:** Git, Postman, IntelliJ IDEA
+* **Concepts:** MVC Architecture, OOP, API Design, Query Optimization
 
 ---
 
-### 🌐 Connect with me:
+## 🏗️ Key Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/branwalashish)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/branwalashish)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/branwalashish)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@DataStructureAndAshish)
+### 🔹 Student Management System
+
+👉 [View Project](https://github.com/branwalashish/student-management-system)
+
+A backend-driven web application built using **Spring Boot, JPA, MySQL, and Thymeleaf**.
+
+**Highlights:**
+
+* Implemented full **CRUD operations** using REST-style architecture
+* Designed using **layered architecture (Controller → Service → Repository)**
+* Integrated **MySQL database with JPA/Hibernate**
+* Focused on clean code structure and modular design
+* Managed version control with structured Git commits
 
 ---
 
-📈 _“Code. Learn. Grow.”_
+### 🔹 Employee Management System
+
+👉 [View Project](https://github.com/branwalashish/EmployeeManagementSystem)
+
+A similar CRUD-based system focused on managing employee data.
+
+---
+
+## 🧠 Problem Solving
+
+* Practicing Data Structures & Algorithms to improve problem-solving and system thinking
+  👉 [View DSA Practice](https://github.com/branwalashish/DSA)
+
+---
+
+## 📺 Knowledge Sharing
+
+I also share technical content and implementations:
+
+👉 [YouTube Channel](https://www.youtube.com/@DataStructureAndAshish)
+
+---
+
+## 🌐 Connect with me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/branwalashish)
+* 💻 [HackerRank](https://www.hackerrank.com/profile/branwalashish)
+* 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/branwalashish)
+
+---
+
+### 📈 Focus
+
+> Building scalable backend systems and improving problem-solving skills through continuous learning.
