@@ -22,7 +22,7 @@ Previously worked on **Oracle FLEXCUBE core banking systems**, handling real-tim
 * **Test Automation:** Playwright, Page Object Model (POM), Playwright Fixtures
 * **Backend:** Spring Boot, JPA/Hibernate, REST APIs
 * **Database:** MySQL, Oracle SQL
-* **Tools:** Git, Postman, IntelliJ IDEA
+* **Tools:** Git, Postman, VS Code, Eclipse
 * **Concepts:** E2E Testing, Flaky Test Reduction, MVC Architecture, OOP, API Design, Query Optimization
 
 ---
@@ -31,7 +31,7 @@ Previously worked on **Oracle FLEXCUBE core banking systems**, handling real-tim
 
 ### 🔹 Test Automation: Insurance Platform (DuckCreek-based)
 
-* Designed and built an **end-to-end UI automation framework** using **Playwright + TypeScript**
+* Designed and built an **end-to-end UI and API automation framework** using **Playwright + TypeScript**
 * Structured with the **Page Object Model** and **Playwright fixtures** for reusable, maintainable tests
 * Replaced Playwright's default `waitForLoadState` with a **custom wait strategy** that waits for pending XHR requests to clear, which stabilized tests in a slow, XHR-heavy environment
 
