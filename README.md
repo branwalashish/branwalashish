@@ -9,7 +9,7 @@ Previously worked on **Oracle FLEXCUBE core banking systems**, handling real-tim
 
 * 💼 Software Engineer at **ElevenXN Technologies** (May 2025 – Present)
 * 🤖 Testing **PostQode**, an AI coding product: LLM behavior, context condensation, token/cost usage, and agents
-* 🧪 Building **E2E UI automation** with **Playwright + TypeScript**, with a strong focus on reducing flaky tests
+* 🧪 Building **E2E UI and API automation** with **Playwright + TypeScript**, with a strong focus on reducing flaky tests
 * 🏦 Background in **core banking (Oracle FLEXCUBE)** and **Java / Spring Boot** backend development
 * ⚡ Care about **clean architecture, performance, and maintainability**
 * 🔍 Interested in solving real-world backend, data, and reliability problems
